@@ -889,10 +889,10 @@ footer img {
 ==================================================*/
 
 .top-bar {
-    color: #333;
+    color: #FFC100;
     padding: 150px 0 150px;
-    background: #eeeeee;
-    background: #eeeeee;
+    background: #FFC100;
+    background: #FFC100;
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
@@ -903,7 +903,7 @@ footer img {
     font-size: 60px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #999;
+    color: #FFFFFF;
     line-height: 50px;
 }
 
@@ -911,16 +911,16 @@ footer img {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 500;
-    color: #777;
+    color: rgb(110, 83, 0);
 }
 
 .top-bar p a {
-    color: #777;
+    color: rgb(110, 83, 0);
 }
 
 .top-bar p a:hover,
 .top-bar p a:focus {
-    color: #555;
+    color: #FFFFFF;
     text-decoration: none;
 }
 
